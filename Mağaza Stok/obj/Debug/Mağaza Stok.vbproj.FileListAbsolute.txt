@@ -1,0 +1,49 @@
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.exe.config
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.exe
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.pdb
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.xml
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.vbprojAssemblyReference.cache
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.Form1.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.Resources.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.vbproj.GenerateResource.cache
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.exe
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.xml
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.pdb
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.kayit.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.anasayfa.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.urunkayit.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.urunsatis.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.uruniade.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.satılanurunler.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.urunbilgi.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.stok.resources
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.vbproj.CopyComplete
+C:\Users\90507\source\repos\Mağaza Stok\Mağaza Stok\bin\Debug\db\magaza.db
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\db\magaza.db
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.exe.config
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.exe
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.pdb
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\Mağaza Stok.xml
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.vbprojAssemblyReference.cache
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.anasayfa.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.Form1.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.kayit.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.Resources.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.satılanurunler.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.stok.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.urunbilgi.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.uruniade.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.urunkayit.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza_Stok.urunsatis.resources
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.vbproj.GenerateResource.cache
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.vbproj.CopyComplete
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.exe
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.xml
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\obj\Debug\Mağaza Stok.pdb
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\itextsharp.dll
+C:\Users\90507\Desktop\Buket Ödev\Görsel Programlama\Mağaza Stok\Mağaza Stok\bin\Debug\itextsharp.xml
